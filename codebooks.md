@@ -1,9 +1,9 @@
-Code Book
+# Code Book
 
 
 Please see below for the data fields 
 
-Identifiers
+# Identifiers
 
 subject - ID of the subject 
 activity - type of activity
@@ -88,7 +88,7 @@ fBodyBodyGyroJerkMagMean
 fBodyBodyGyroJerkMagStd
 fBodyBodyGyroJerkMagMeanFreq
 
-Activity Labels
+# Activity Labels
 
 WALKING (value 1): subject was walking during the test
 WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
