@@ -1,14 +1,20 @@
 
 Please execute run_analysis.R to get the result 
 
-Run analysis.R does... 
+# Run analysis.R does... 
 
 1) Install reshape 2 packages
+
 2) download the file and unzip 
+
 3) Load the activity and features
+
 4) Load the traning and test data set 
+
 5) calculte mean and standard deviation 
+
 6) Merge data set and add lables
+
 7) Make a text file that includes tidy data 
 
 
