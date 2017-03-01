@@ -107,17 +107,11 @@ angle(Z,gravityMean)
 
 
 # Activity Labels
-
+```
 1) activity : Activity by subject
-
 2) walking 
-
 3) wakling upstairs 
-
 4) walking downstairs 
-
 5) sitting
-
 6) standing
-
-7) laying
+7) laying```
