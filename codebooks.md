@@ -6,6 +6,7 @@ Please see below for the data fields
 # Identifiers
 
 subject - ID of the subject 
+
 activity - type of activity
 
 
