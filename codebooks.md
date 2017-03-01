@@ -11,8 +11,9 @@ activity - type of activity
 
 
 # final.csv info
-subject_id: identifier for each subject
-activity: label for specific activity
+```
+subject_id: identifier for the subject
+activity: label for the activity
 Features with average measurement:
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
@@ -100,6 +101,7 @@ angle(tBodyGyroJerkMean,gravityMean)
 angle(X,gravityMean)
 angle(Y,gravityMean)
 angle(Z,gravityMean)
+```
 
 
 # Activity Labels
