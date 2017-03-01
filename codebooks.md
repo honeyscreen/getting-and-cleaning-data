@@ -117,4 +117,3 @@ angle(Z,gravityMean)
 6) standing
 
 7) laying
-
