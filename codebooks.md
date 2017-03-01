@@ -1,13 +1,15 @@
 # Code Book
 
 
-Please see below for the data fields 
+`Please see below for the data fields`
+
 
 # Identifiers
 
-subject - ID of the subject 
-
+```
+subject - ID of the subject
 activity - type of activity
+```
 
 
 # final.csv info
